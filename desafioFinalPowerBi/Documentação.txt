@@ -1,0 +1,30 @@
+1) Processamento de Dados
+O tratamento dos dados foi relativamente simples, consistindo em quatro etapas para criar uma coluna com nome completo:
+
+1.Criação de uma nova coluna contendo os valores da coluna "First_Name" acrescidos de um espaço em branco.
+2.Renomeação dessa nova coluna para "Primeiro_Nome".
+3.Mesclagem da coluna "Primeiro_Nome" com "Last_Name" para formar o nome completo.
+4.Remoção da coluna original "First_Name".
+
+Dessa forma, consolidamos o nome e sobrenome em uma única coluna, facilitando a análise sem a necessidade de trabalhar com duas colunas separadas.
+
+2) Gráficos Utilizados:
+Os seguintes gráficos foram empregados na análise:
+
+1.Gráfico de rosca – Contagem da Renda Familiar.
+
+2.Gráfico de pizza – Distribuição por gênero (quantidade de homens e mulheres).
+
+3.Treemap – Contagem de horas dormidas por faixa etária.
+
+4.Gráfico de barras empilhadas – Níveis de estresse.
+
+5.Gráfico de funil – Maiores departamentos.
+
+3) Insights do Dashboard:
+
+1.O sexo masculino é predominante entre as faixas de renda familiar alta e média.
+
+2.O maior departamento (CS) é composto, em sua maioria, por alunos de 23 anos.
+
+3.Há uma similaridade numérica entre os que classificaram seu nível de estresse como 4/10 e os que indicaram 8/10.
